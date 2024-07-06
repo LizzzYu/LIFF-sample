@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LIFF-sample/static/css/main.f855e6bc.css",
+    "main.js": "/LIFF-sample/static/js/main.56ed7ae2.js",
+    "index.html": "/LIFF-sample/index.html",
+    "main.f855e6bc.css.map": "/LIFF-sample/static/css/main.f855e6bc.css.map",
+    "main.56ed7ae2.js.map": "/LIFF-sample/static/js/main.56ed7ae2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.56ed7ae2.js"
+  ]
+}
